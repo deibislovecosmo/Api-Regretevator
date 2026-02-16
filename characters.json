@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "name": "Bive",
+    "pronouns": "She/Her",
+    "imageUrl": "https://static.wikia.nocookie.net/regretevator/images/7/79/Bivenewrender.png/revision/latest?cb=20241223015900",
+    "description": "Una detective paranoica que habla sobre conspiraciones y cree estar siendo perseguida por un gobierno corrupto. Se la puede encontrar en varios pisos y entra en el elevador con frecuencia."
+  },
+  {
+    "id": 2,
+    "name": "DrRETRO",
+    "pronouns": "She/Her",
+    "imageUrl": "https://static.wikia.nocookie.net/regretevator/images/d/d6/New_Dr_RETRO_Render.webp/revision/latest?cb=20241219012853",
+    "description": "NPC de estilo retro que aparece en el piso de la Gumball Machine. Puede curar a otros NPCs y reaccionar a ataques con proyectiles."
+  },
+  {
+    "id": 3,
+    "name": "Folly",
+    "pronouns": "She/Her",
+    "imageUrl": "https://static.wikia.nocookie.net/regretevator/images/e/e0/FollyNewerRender.png/revision/latest/scale-to-width-down/1000?cb=20250301205235",
+    "description": "Una presencia misteriosa que aparece como jefa en Eternal Limbo. No puede ser eliminada por algunos NPCs como MR y desaparece en una nube de humo si su vida llega a cero."
+  },
+  {
+    "id": 4,
+    "name": "Gnarpy",
+    "pronouns": "Xe/They",
+    "imageUrl": "https://static.wikia.nocookie.net/regretevator/images/f/f9/New_Gnarpy_Render.webp/revision/latest?cb=20241219012853",
+    "description": "NPC que suele aparecer en Two Stud Camp y puede disparar un rayo láser en respuesta a los ataques tras recibir tres golpes."
+  },
+  {
+    "id": 5,
+    "name": "Infected",
+    "pronouns": "He/Any",
+    "imageUrl": "https://static.wikia.nocookie.net/regretevator/images/5/5f/Infected_alternate_render.png/revision/latest?cb=20241218212950",
+    "description": "NPC que se encuentra en el Infected Apartment. Su animación recuerda a personajes antiguos de Roblox y entra en el elevador con probabilidad."
+  },
+  {
+    "id": 6,
+    "name": "Lampert",
+    "pronouns": "He/Him",
+    "imageUrl": "https://static.wikia.nocookie.net/regretevator/images/3/3f/Lampert_new.png/revision/latest?cb=20260204154704",
+    "description": "NPC con forma de lámpara que odia los gérmenes y prefiere la limpieza. Puede entrar al elevador si el jugador lo encuentra posando como una lámpara normal."
+  },
+  {
+    "id": 7,
+    "name": "Mannequin_Mark",
+    "pronouns": "He/Him",
+    "imageUrl": "https://static.wikia.nocookie.net/regretevator/images/f/fc/ManMark.png/revision/latest?cb=20241220205652",
+    "description": "Un maniquí que puede caminar y se encuentra en el Stanley Room. Puede entrar al elevador e incluso tiene sombrero de colores al azar."
+  },
+  {
+    "id": 8,
+    "name": "Mozelle",
+    "pronouns": "She/They",
+    "imageUrl": "https://static.wikia.nocookie.net/regretevator/images/0/02/Mozelle_transparent.png/revision/latest?cb=20240731191732",
+    "description": "NPC que aparece en el evento de Mozelle y en Mozelle’s Strawberry Game; decora el elevador con obras de arte y elementos temáticos durante varios minutos."
+  },
+  {
+    "id": 9,
+    "name": "NULL",
+    "pronouns": "It/He",
+    "imageUrl": "https://static.wikia.nocookie.net/regretevator/images/1/1d/DullNull.png/revision/latest?cb=20250214225321",
+    "description": "NPC animado a baja velocidad de cuadro que trabaja con MR por motivos desconocidos y puede aparecer en distintos lugares como Toolbox Speedway o Toolbox Thrift."
+  },
+  {
+    "id": 10,
+    "name": "PartyNoob",
+    "pronouns": "They/Any",
+    "imageUrl": "https://static.wikia.nocookie.net/regretevator/images/a/a4/New_Poob_Render_2.webp/revision/latest?cb=20241219012853",
+    "description": "NPC con temática de fiesta que puede aparecer en el Subway y tiene eventos particulares cuando recibe varios golpes."
+  },
+  {
+    "id": 11,
+    "name": "Pest",
+    "pronouns": "He/They/Any",
+    "imageUrl": "https://static.wikia.nocookie.net/regretevator/images/b/b9/Pest_Render.png/revision/latest?cb=20241220202345",
+    "description": "NPC encontrado en Underground Subway que puede robar monedas de jugadores cercanos y aparece con una construcción inspirada en guest clásico."
+  },
+  {
+    "id": 12,
+    "name": "Pilby",
+    "pronouns": "They/Them",
+    "imageUrl": "https://static.wikia.nocookie.net/regretevator/images/f/f7/Pibby.png/revision/latest?cb=20241220205921",
+    "description": "NPC que aparece durante el evento Wheel Of y entra al elevador cuando la ruleta no cae en la opción SPECIAL."
+  },
+  {
+    "id": 13,
+    "name": "Prototype",
+    "pronouns": "He/They",
+    "imageUrl": "https://static.wikia.nocookie.net/regretevator/images/3/3c/New_Prototype_Render_1.webp/revision/latest?cb=20241219012853",
+    "description": "NPC robot que aparece en Find The Path y entra al elevador. Fue parte de un concurso de NPCs y tiene varias variaciones de animación."
+  },
+  {
+    "id": 14,
+    "name": "Scag",
+    "pronouns": "She/They",
+    "imageUrl": "https://static.wikia.nocookie.net/regretevator/images/d/d3/Scag1.png/revision/latest/scale-to-width-down/1000?cb=20260107194422",
+    "description": "NPC que puede entrar al elevador con o sin carrito dependiendo del evento en Painting Compartment o por su propio movimiento."
+  },
+  {
+    "id": 15,
+    "name": "Split",
+    "pronouns": "She/Any",
+    "imageUrl": "https://static.wikia.nocookie.net/regretevator/images/4/42/New_Split_Render_1.webp/revision/latest?cb=20241219012852",
+    "description": "NPC que aparece en el piso Splitsville! y tiene varias interacciones con otros NPCs."
+  },
+  {
+    "id": 16,
+    "name": "Spud!",
+    "pronouns": "He/It",
+    "imageUrl": "https://static.wikia.nocookie.net/regretevator/images/1/12/Spudnewrender.png/revision/latest?cb=20241223015407",
+    "description": "NPC que aparece con probabilidad en Two Stud Camp y explota después de cierto número de clics."
+  },
+  {
+    "id": 17,
+    "name": "STAT",
+    "pronouns": "She/Her",
+    "imageUrl": "https://static.wikia.nocookie.net/regretevator/images/6/6f/STAT_transparent.png/revision/latest?cb=20250109163635",
+    "description": "NPC representado como sprite 2D, que entra al elevador si se supera el desafío S.T.A.T."
+  },
+  {
+    "id": 18,
+    "name": "Unpleasant",
+    "pronouns": "Any",
+    "imageUrl": "https://static.wikia.nocookie.net/regretevator/images/5/5f/UnpleasantRender2.png/revision/latest?cb=20241230020347",
+    "description": "NPC inspirado en un meme de gradiente desagradable que aparece en Infected Apartment y tiene rutas específicas en Subway."
+  },
+  {
+    "id": 19,
+    "name": "Wallter",
+    "pronouns": "He/Any",
+    "imageUrl": "https://static.wikia.nocookie.net/regretevator/images/0/0b/Wallter_Render.png/revision/latest?cb=20241220203535",
+    "description": "NPC alto que puede atravesar huecos en algunos pisos y aparece en Flatgrass."
+  },
+  {
+    "id": 20,
+    "name": "Jeremy",
+    "pronouns": "Any",
+    "imageUrl": "https://static.wikia.nocookie.net/regretevator/images/6/6d/Betterjeremyimage.png/revision/latest?cb=20250109220722",
+    "description": "NPC clasificado como hostil y piso-específico; no tiene página completa pero se le lista como enemigo en ciertas áreas."
+  },
+  {
+    "id": 21,
+    "name": "The Cashier",
+    "pronouns": "Unknown",
+    "imageUrl": "https://static.wikia.nocookie.net/regretevator/images/8/8a/Help_him.png/revision/latest?cb=20230918023525",
+    "description": "NPC menor que aparece en ciertos pisos como enemigo u obstáculo, pero no tiene página completa en la wiki."
+  },
+  {
+    "id": 22,
+    "name": "SwibbleDib",
+    "pronouns": "Any",
+    "imageUrl": "https://static.wikia.nocookie.net/regretevator/images/e/e5/SwibbleDibRender.png/revision/latest?cb=20250429215941",
+    "description": "NPC que barre el suelo en la tienda Glorp N' Go pero actualmente no entra al elevador."
+  },
+  {
+    "id": 23,
+    "name": "Yum Zlurplie",
+    "pronouns": "Any",
+    "imageUrl": "https://static.wikia.nocookie.net/regretevator/images/5/5b/New_Yum_Zlurplie_Render.webp/revision/latest?cb=20241219012853",
+    "description": "NPC encontrado en Glorp N' Go con animaciones al interactuar con ciertos objetos, pero no entra al elevador."
+  },
+  {
+    "id": 24,
+    "name": "Guppy",
+    "pronouns": "He/They",
+    "imageUrl": "https://static.wikia.nocookie.net/regretevator/images/f/fe/Guppy_render2.png/revision/latest?cb=20250516230901",
+    "description": "Guppy no hace nada digno de mención, ya sea sentado en uno de los bancos del suelo del Fishy Aquarium o nadando afuera en el fondo de este último antes de explotar sin contemplaciones."
+  }
+]
