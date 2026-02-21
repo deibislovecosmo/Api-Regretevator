@@ -3,35 +3,35 @@
     "id": 1,
     "name": "Bive",
     "pronouns": "She/Her",
-    "imageUrl": "https://static.wikia.nocookie.net/regretevator/images/7/79/Bivenewrender.png/revision/latest?cb=20241223015900",
+    "imageUrl": "https://static.wikia.nocookie.net/regretevator/images/7/79/Bivenewrender.png",
     "description": "Una detective paranoica que habla sobre conspiraciones y cree estar siendo perseguida por un gobierno corrupto. Se la puede encontrar en varios pisos y entra en el elevador con frecuencia."
   },
   {
     "id": 2,
     "name": "DrRETRO",
     "pronouns": "She/Her",
-    "imageUrl": "https://static.wikia.nocookie.net/regretevator/images/d/d6/New_Dr_RETRO_Render.webp/revision/latest?cb=20241219012853",
+    "imageUrl": "https://static.wikia.nocookie.net/regretevator/images/d/d6/New_Dr_RETRO_Render.webp",
     "description": "NPC de estilo retro que aparece en el piso de la Gumball Machine. Puede curar a otros NPCs y reaccionar a ataques con proyectiles."
   },
   {
     "id": 3,
     "name": "Folly",
     "pronouns": "She/Her",
-    "imageUrl": "https://static.wikia.nocookie.net/regretevator/images/e/e0/FollyNewerRender.png/revision/latest/scale-to-width-down/1000?cb=20250301205235",
+    "imageUrl": "https://static.wikia.nocookie.net/regretevator/images/e/e0/FollyNewerRender.png",
     "description": "Una presencia misteriosa que aparece como jefa en Eternal Limbo. No puede ser eliminada por algunos NPCs como MR y desaparece en una nube de humo si su vida llega a cero."
   },
   {
     "id": 4,
     "name": "Gnarpy",
     "pronouns": "Xe/They",
-    "imageUrl": "https://static.wikia.nocookie.net/regretevator/images/f/f9/New_Gnarpy_Render.webp/revision/latest?cb=20241219012853",
+    "imageUrl": "https://static.wikia.nocookie.net/regretevator/images/f/f9/New_Gnarpy_Render.webp",
     "description": "NPC que suele aparecer en Two Stud Camp y puede disparar un rayo láser en respuesta a los ataques tras recibir tres golpes."
   },
   {
     "id": 5,
     "name": "Infected",
     "pronouns": "He/Any",
-    "imageUrl": "https://static.wikia.nocookie.net/regretevator/images/5/5f/Infected_alternate_render.png/revision/latest?cb=20241218212950",
+    "imageUrl": "https://static.wikia.nocookie.net/regretevator/images/5/5f/Infected_alternate_render.png",
     "description": "NPC que se encuentra en el Infected Apartment. Su animación recuerda a personajes antiguos de Roblox y entra en el elevador con probabilidad."
   },
   {
@@ -167,4 +167,5 @@
     "imageUrl": "https://static.wikia.nocookie.net/regretevator/images/f/fe/Guppy_render2.png/revision/latest?cb=20250516230901",
     "description": "Guppy no hace nada digno de mención, ya sea sentado en uno de los bancos del suelo del Fishy Aquarium o nadando afuera en el fondo de este último antes de explotar sin contemplaciones."
   }
+
 ]
